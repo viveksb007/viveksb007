@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am vivek 👋
+
+Check out [my website](https://viveksb007.github.io/) and [Twitter](https://twitter.com/viveksb007)
 
 <!--
 **viveksb007/viveksb007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
