@@ -1,5 +1,7 @@
 ### Hi there, I am vivek 👋
 
+Currently working as a Software Engineer at [Coinbase](https://github.com/coinbase)
+
 Check out [my website](https://viveksb007.github.io/) and [Twitter](https://twitter.com/viveksb007)
 
 <!--
