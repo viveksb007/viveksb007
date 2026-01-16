@@ -1,2 +1,7 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=viveksb007&show_icons=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=viveksb007&layout=compact)
+### Hey, I'm Vivek
+
+Software Engineer at [AWS](https://aws.amazon.com/), focused on infrastructure and distributed systems.
+
+### Get in Touch
+- Twitter: [@viveksb007](https://x.com/viveksb007)
+- Blog: [viveksb007.github.io](https://viveksb007.github.io/)
