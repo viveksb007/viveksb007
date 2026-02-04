@@ -4,4 +4,4 @@ Software Engineer at [AWS](https://aws.amazon.com/), focused on infrastructure a
 
 ### Get in Touch
 - Twitter: [@viveksb007](https://x.com/viveksb007)
-- Blog: [viveksb007.github.io](https://viveksb007.github.io/)
+- Blog: [viveksb.dev](https://viveksb.dev)
